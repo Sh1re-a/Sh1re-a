@@ -22,8 +22,6 @@ A public-transport decision app built with Java 21, Spring Boot, React, and Type
 
 I have also built an earlier multi-stage LLM prototype with OpenAI Responses and vision, structured outputs, model/tool adapters, context engineering, deterministic prompt-cache keys, cached-token usage parsing, and cost/latency visibility. That runtime is not presented as current production work; the repository history documents the engineering behind it.
 
-Current learning focus: RAG, embeddings, vector search with pgvector, and LLM evaluation.
-
 Cloud and delivery: Google Cloud Run, Docker, GitHub Actions, CI/CD, and Vercel.
 
 ## How I work
