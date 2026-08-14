@@ -6,13 +6,13 @@ I build full-stack products and applied AI workflows with Java/Spring Boot, Reac
 
 ## Selected work
 
-### [Gemini Live coaching flow](https://github.com/final-project-training-app/training-app/pull/77)
+### [Ring så tränar vi — frontend](https://github.com/ring-sa-tranar-vi/frontend)
 
-I contributed the real-time session orchestration for a voice coaching flow. The merged work spans streamed audio, ephemeral-token handling, tool calling, system instructions, and reconnect behaviour around Gemini Live.
+I contribute to the React/TypeScript frontend for an AI-powered training app built for older adults. The experience is designed like a phone call: users speak with a virtual coach that guides a personalised workout in real time. The current team project combines Gemini Live audio and tool-driven session flows with Clerk-authenticated backend APIs, multilingual UX, and event and organisation features. See the [Ring så tränar vi organisation](https://github.com/ring-sa-tranar-vi).
 
 ### [Miscoshorts AI](https://github.com/Sh1re-a/miscoshorts-ai)
 
-A local video-to-Shorts pipeline that combines `faster-whisper` transcription, Gemini-assisted clip selection, MoviePy/OpenCV rendering, and a React dashboard. My fork contains **154 commits authored by me**, focused on reliable setup, caching, recovery, repeatable jobs, and cross-platform use.
+A local video-to-Shorts pipeline that combines `faster-whisper` transcription, Gemini-assisted clip selection, MoviePy/OpenCV rendering, and a React dashboard. My work has focused on reliable setup, caching, recovery, repeatable jobs, and cross-platform use.
 
 ### [HinnerJag](https://github.com/Sh1re-a/hinnerjag)
 
