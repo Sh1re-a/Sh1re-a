@@ -6,9 +6,9 @@ I build full-stack products and applied AI workflows with Java/Spring Boot, Reac
 
 ## Selected work
 
-### [Ring så tränar vi — frontend](https://github.com/ring-sa-tranar-vi/frontend)
+### [Ring så tränar vi — team project](https://github.com/ring-sa-tranar-vi)
 
-I contribute to the React/TypeScript frontend for an AI-powered training app built for older adults. The experience is designed like a phone call: users speak with a virtual coach that guides a personalised workout in real time. The current team project combines Gemini Live audio and tool-driven session flows with Clerk-authenticated backend APIs, multilingual UX, and event and organisation features. See the [Ring så tränar vi organisation](https://github.com/ring-sa-tranar-vi).
+I contribute across the React/TypeScript frontend and Java/Spring Boot backend in a team building a voice-first AI training app for older adults. My recent work connects short-lived Gemini Live session tokens, authenticated activity and feedback flows, and structured tool calls to evolving backend contracts. The GitHub organisation brings the frontend, backend, app, documentation, and infrastructure repositories together.
 
 ### [Miscoshorts AI](https://github.com/Sh1re-a/miscoshorts-ai)
 
