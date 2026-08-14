@@ -16,7 +16,7 @@ A local video-to-Shorts pipeline that combines `faster-whisper` transcription, G
 
 ### [HinnerJag](https://github.com/Sh1re-a/hinnerjag)
 
-A public-transport decision app built with Java 21, Spring Boot, React, and TypeScript. It combines Trafiklab/SL data, Mapbox search, route logic, and Docker-based local development. The link goes to the source while the hosted service is unavailable.
+A public-transport decision app built with Java 21, Spring Boot, React, and TypeScript. It combines Trafiklab/SL data, Mapbox search, route logic, and Docker-based local development. [Open the live app](https://hinnerjag.nu/).
 
 ## AI engineering focus
 
