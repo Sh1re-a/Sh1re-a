@@ -18,6 +18,14 @@ A local video-to-Shorts pipeline that combines `faster-whisper` transcription, G
 
 A public-transport decision app built with Java 21, Spring Boot, React, and TypeScript. It combines Trafiklab/SL data, Mapbox search, route logic, and Docker-based local development. The link goes to the source while the hosted service is unavailable.
 
+## AI engineering focus
+
+I have also built an earlier multi-stage LLM prototype with OpenAI Responses and vision, structured outputs, model/tool adapters, context engineering, deterministic prompt-cache keys, cached-token usage parsing, and cost/latency visibility. That runtime is not presented as current production work; the repository history documents the engineering behind it.
+
+Current learning focus: RAG, embeddings, vector search with pgvector, and LLM evaluation.
+
+Cloud and delivery: Google Cloud Run, Docker, GitHub Actions, CI/CD, and Vercel.
+
 ## How I work
 
 I like tracing a problem from the user experience down through state, APIs, and data. I use AI as an engineering tool for exploration and implementation, then verify the result with code review, tests, builds, and observable behaviour.
