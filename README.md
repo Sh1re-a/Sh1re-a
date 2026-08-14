@@ -18,10 +18,6 @@ A local video-to-Shorts pipeline that combines `faster-whisper` transcription, G
 
 A public-transport decision app built with Java 21, Spring Boot, React, and TypeScript. It combines Trafiklab/SL data, Mapbox search, route logic, and Docker-based local development. The link goes to the source while the hosted service is unavailable.
 
-### [Nolera](https://www.nolera.se/)
-
-A current private Next.js/TypeScript product for customer-specific web delivery. An earlier 2026 prototype used the OpenAI Responses API for structured vision analysis; that AI runtime was later retired and is not part of the current product.
-
 ## How I work
 
 I like tracing a problem from the user experience down through state, APIs, and data. I use AI as an engineering tool for exploration and implementation, then verify the result with code review, tests, builds, and observable behaviour.
