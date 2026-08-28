@@ -8,7 +8,7 @@ I build full-stack products and applied AI workflows with Java/Spring Boot, Reac
 
 ### [Ring så tränar vi — team project](https://github.com/ring-sa-tranar-vi)
 
-I contribute across the React/TypeScript frontend and Java/Spring Boot backend in a team building a voice-first AI training app for older adults. My recent work connects short-lived Gemini Live session tokens, authenticated activity and feedback flows, and structured tool calls to evolving backend contracts. The GitHub organisation brings the frontend, backend, app, documentation, and infrastructure repositories together.
+I contribute across the React/TypeScript frontend and Java/Spring Boot backend in a team building a voice-first AI training app for older adults. My recent work connects short-lived Gemini Live session tokens, authenticated activity and feedback flows, and structured tool calls to evolving backend contracts. [Open the live app](https://app.ringsatranarvi.se/). The GitHub organisation brings the frontend, backend, app, documentation, and infrastructure repositories together.
 
 ### [Miscoshorts AI](https://github.com/Sh1re-a/miscoshorts-ai)
 
