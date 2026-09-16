@@ -1,32 +1,38 @@
 # Shirwac Abib
 
-**Software Engineer | Applied AI** · Stockholm, Sweden
+**Software Engineer building Applied AI systems** · Stockholm, Sweden
 
-I build full-stack products and applied AI workflows with Java/Spring Boot, React/Next.js/TypeScript, and Python. I care about software that is understandable, testable, and useful in practice—from backend contracts to the final user flow.
+I build Java/Spring Boot systems and full-stack products, with a focus on bounded Applied AI: typed tool calling, retrieval-augmented generation, structured outputs, deterministic verification, and evals. I pair backend engineering with React/TypeScript when a useful product needs an end-to-end flow.
 
 ## Selected work
 
+### [Incident Detective](https://github.com/Sh1re-a/incident-detective-ai)
+
+A synthetic incident-response demo built with Java 21 and Spring Boot. It uses Gemini function calling through four typed, read-only tools, RAG with Gemini embeddings and PostgreSQL/pgvector, schema-constrained output, deterministic evidence checks, evals, and recorded replay. The orchestration is deliberately bounded: `COLLECT → SYNTHESIZE → VERIFY`.
+
 ### [Ring så tränar vi — team project](https://github.com/ring-sa-tranar-vi)
 
-I contribute across the React/TypeScript frontend and Java/Spring Boot backend in a team building a voice-first AI training app for older adults. My recent work connects short-lived Gemini Live session tokens, authenticated activity and feedback flows, and structured tool calls to evolving backend contracts. [Open the live app](https://app.ringsatranarvi.se/). The GitHub organisation brings the frontend, backend, app, documentation, and infrastructure repositories together.
-
-### [Miscoshorts AI](https://github.com/Sh1re-a/miscoshorts-ai)
-
-A local video-to-Shorts pipeline that combines `faster-whisper` transcription, Gemini-assisted clip selection, MoviePy/OpenCV rendering, and a React dashboard. My work has focused on reliable setup, caching, recovery, repeatable jobs, and cross-platform use.
+I contribute to a team-built, voice-first AI training app for older adults. My hands-on work includes Gemini Live session orchestration, structured tool flows, authenticated frontend/API integration, activity and feedback flows, React/TypeScript UX, and targeted Java/Spring Boot backend changes. [Open the live app](https://app.ringsatranarvi.se/).
 
 ### [HinnerJag](https://github.com/Sh1re-a/hinnerjag)
 
-A public-transport decision app built with Java 21, Spring Boot, React, and TypeScript. It combines Trafiklab/SL data, Mapbox search, route logic, and Docker-based local development. [Open the live app](https://hinnerjag.nu/).
+A public-transport decision app built with Java 21, Spring Boot, React, and TypeScript. It combines Trafiklab/SL data, Mapbox search, route logic, Docker, GitHub Actions, and deployment to Google Cloud Run. [Open the live app](https://hinnerjag.nu/).
 
-## AI engineering focus
+## Core toolkit
 
-I have also built an earlier multi-stage LLM prototype with OpenAI Responses and vision, structured outputs, model/tool adapters, context engineering, deterministic prompt-cache keys, cached-token usage parsing, and cost/latency visibility. That runtime is not presented as current production work; the repository history documents the engineering behind it.
+- **Java 21, Spring Boot** — REST APIs, integration, testing, and backend contracts
+- **Applied AI** — Gemini, function/tool calling, RAG, embeddings, structured outputs, and evaluation
+- **TypeScript, React, Next.js** — product flows and responsive interfaces
+- **PostgreSQL, pgvector** — application data and vector retrieval
+- **Delivery** — Docker, GitHub Actions, Google Cloud Run, and Vercel
 
-Cloud and delivery: Google Cloud Run, Docker, GitHub Actions, CI/CD, and Vercel.
+## Additional work
+
+[Miscoshorts AI](https://github.com/Sh1re-a/miscoshorts-ai) is a fork I extended into a local video-to-Shorts pipeline with transcription, Gemini-assisted clip selection, a React dashboard, caching, recovery, repeatable jobs, and cross-platform support.
 
 ## How I work
 
-I like tracing a problem from the user experience down through state, APIs, and data. I use AI as an engineering tool for exploration and implementation, then verify the result with code review, tests, builds, and observable behaviour.
+I use AI tools, including Codex, intensively as engineering accelerators for architecture exploration, implementation, and test generation. I remain responsible for contracts, technical decisions, code review, tests, builds, and explaining the resulting system. Generated code is a starting point for verification, not proof that the work is correct.
 
 ## Contact
 
